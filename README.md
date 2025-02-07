@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=satyajit001.satyajit001" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=satyajitsjs001.satyajitsjs001" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Satya+Jit!;" />
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **DSA, React Native, AWS**
 
-💬 Ask me about **Python, React, Django... or anything [here](https://github.com/satyajit001/satyajit001/issues)**
+💬 Ask me about **Python, React, Django... or anything [here](https://github.com/satyajitsjs001/satyajitsjs001/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
