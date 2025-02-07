@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=satyajitsjs.satyajitsjs" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=satyajit001.satyajit001" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Satya+Jit!;" />
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **DSA, React Native, AWS**
 
-💬 Ask me about **Python, React, Django... or anything [here](https://github.com/satyajitsjs/satyajitsjs/issues)**
+💬 Ask me about **Python, React, Django... or anything [here](https://github.com/satyajit001/satyajit001/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/satyajitsjs/satyajitsjs/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/satyajit001/satyajit001/output/snake.svg" alt="Snake animation" />
 
 <br/><br/><br/>
 
@@ -60,10 +60,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=satyajitsjs&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=satyajitsjs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=satyajit001&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=satyajit001&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitsjs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit001&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
