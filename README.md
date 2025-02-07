@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Tritech Software**
+ 🔭 I’m currently working on **Infosys**
  
- 🌱 I’m currently learning **DSA, React Native, AWS**
+ 🌱 I’m currently Working On **Python, Django, Devops, AWS**
 
 💬 Ask me about **Python, React, Django... or anything [here](https://github.com/satyajitsjs001/satyajitsjs001/issues)**
 
